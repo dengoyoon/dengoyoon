@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 덴고입니다.👋
+### 덴고의 깃허브에 오신 것을 환영합니다:baby_chick:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinplest)](https://hits.seeyoufarm.com)
 <!--
 **dengoyoon/dengoyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
