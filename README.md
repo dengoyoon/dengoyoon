@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 [![github stats](https://github-readme-stats.vercel.app/api?username=dengoyoon&show_icons=true&hide_border=true)](https://github.com/dengoyoon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengoyoon&layout=compact)](https://github.com/dengoyoon)
 
