@@ -2,4 +2,4 @@
 
 ![hamging](https://i.pinimg.com/originals/45/f9/5b/45f95bc808e40bafb40bb4145ac01c14.jpg#style=max-width:100px;)
 
-<img align="left" style = "width : 100px" src="https://i.pinimg.com/originals/45/f9/5b/45f95bc808e40bafb40bb4145ac01c14.jp"/>
+<img src="https://i.pinimg.com/originals/45/f9/5b/45f95bc808e40bafb40bb4145ac01c14.jp" width = "150px"/>
