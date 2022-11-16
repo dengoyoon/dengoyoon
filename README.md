@@ -1,2 +1,1 @@
-nothing's changed, 
-nothing's the same.
+지나고 보니 평범한 건 하나도 없었고, 내 마음도 떠난 적이 없습니다.
